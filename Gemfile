@@ -13,6 +13,8 @@ group :production do
 end
 # add from ruby guide page
 gem 'carrierwave'
+gem 'mini_magick', '3.7.0'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
